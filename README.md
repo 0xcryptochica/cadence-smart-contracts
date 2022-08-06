@@ -1,6 +1,6 @@
 ## Welcome 👋
 
-In this repository is a collection of the all the smart contracts I developed whilst participating in Emerald Academy's 'Beginner Cadence Bootcamp'. 
+In this repository is a collection of the all the smart contracts I developed while participating in Emerald Academy's 'Beginner Cadence Bootcamp'. 
 
 ## Navigation 📚
 - Cadence Bootcamp Github Repository: (https://github.com/emerald-dao/beginner-cadence-course)
